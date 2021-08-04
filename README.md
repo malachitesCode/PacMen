@@ -1,2 +1,2 @@
 # PacMen-Factory
-# Exercise on PacMen
+<h2> Exercise on PacMen </h2>
