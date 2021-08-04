@@ -1,1 +1,2 @@
-# PacMen
+# PacMen-Factory
+# Exercise on PacMen
